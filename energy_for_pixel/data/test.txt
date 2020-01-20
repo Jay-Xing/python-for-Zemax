@@ -16,7 +16,7 @@ Field: -2.9000, -2.9000 (deg)
 
 Reference Coordinates:  -7.984E+000  -7.984E+000
 Radial distance          Fraction
-          0.000          1.000000
+          0.000          0.000000
           0.200          0.000008
           0.400          0.000164
           0.600          0.000666
